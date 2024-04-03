@@ -24,23 +24,50 @@ Operações adicionais:
 - Cálculo de juros simples
 - Cálculo de juros compostos
 
+### Requisitos Funcionais:
+
+- Deve possuir uma interface texto para acessar às operações matemáticas;
+- Deve permitir ao usuário a opção de realizar mais de uma operação por execução, ou finalizar a aplicação, através de um menu;
+- Deve implementar as operações básicas de soma, multiplicação, subtração e divisão;
+- Deve implementar a operação de cálculo fatorial;
+- Deve implementar a operação de cálculo de função de Segundo Grau;
+- Deve implementar a operação de conversão de base numérica (B10 X B2 / B2 x B10 / B2 x B8 / B8 x B2 / B2 x B16 / B16 x B2)
+- Deve implementar a função de concatenação de 2 strings;
+- Deve implementar a função de Juros Simples e Juros Compostos
+
+### Requisitos Não Funcionais:
+
+- VisualG (Portugol)
+- Linguagem de programação TypeScript
+- VSC Git
+- Documentações
+
+### Documentação do projeto
+
+Para acessar a documentação do projeto, fique à vontade para acessar nosso site:
+
+[Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS)
+
+À ser feito.
+
 
 # Board de Produto
 
 | Prioridades  | Épicos planejados | Detalhamento  | Sprint    |
 | ------------ | -------------    | ------------- | ----------|
-| ------------ | -------------    | ------------- | ----------|
-| ------------ | -------------    | ------------- | ----------|
-| Média | [**Documentação:**]([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS) | Implementação da rotina de documentação de práticas ao longo do projeto | [[#1]]([https://github.com/ClaraSantosmf/FATEC-API-1-SEMESTRE](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.)/milestone/1)  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell   |
+| Média | [**Documentação:**]([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS) | Implementação da rotina de documentação de práticas ao longo do projeto | [[#1]](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.)/milestone/1)  |
+| Alta  | [**Lógica para Calculadora Científica:**] ([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS)(colocar aqui o link para a tabela)| Implementação da lógica a ser utilizada no projeto  | Content Cell   |
 
 
 ### Objetivos 
+
   Desenvolvimento de uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
+  
 - A aplicação (no projeto) de técnicas de programação para a construção de algoritmos.
 - O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional.
 - O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto.
 - O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time (sucesso / fracasso de TODOS).
+
 
 
 #### Prazos
@@ -80,15 +107,17 @@ Legenda Priorização:
 Obs: Os cards na coluna "priorizado" são os cards escolhidos para serem feitos na próxima sprint.
 ### Documentação do projeto
 
-Para acessar a documentação do projeto:
-
-[Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS)
-À ser feito.
 
 ### Equipe
 
 | Integrantes | Redes Sociais |
 |-------|--------|
+|Diego Sales Gamero João ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/DiegoSGamero)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|Fonseca ![Static Badge](https://img.shields.io/badge/Scrum_master-pink)![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="https://github.com/FaelKbral" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|João Pedro Ventura ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/jaupventur)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|Leiuqueze Inacio Pereira da Silva ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/Leiux15)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|Leonardo Ribeiro ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/LeoRibeiro05)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|Marcos Antonio Povinske ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/MarcosPovs)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|Tiago Augusto Seixas ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/TiagoAugustoSeixas)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
 |Tiago Santos ![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="[(https://github.com/tiago17santos)" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
-|Fonseca ![Static Badge](https://img.shields.io/badge/Scrum_master-pink)![Static Badge](https://img.shields.io/badge/Dev-black)|<a href="https://github.com/ClaraSantosmf" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
-|William Gomes de Freitas ![Static Badge](https://img.shields.io/badge/Product_owner-blue)![Static Badge](https://img.shields.io/badge/Dev-black) ||<a href="https://github.com/willigfreitas" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
+|William Gomes de Freitas ![Static Badge](https://img.shields.io/badge/Product_owner-blue)![Static Badge](https://img.shields.io/badge/Dev-black) |<a href="https://github.com/willigfreitas" target="_blank"><img src="https://img.shields.io/badge/-black?style=social&logo=github&label=github&color=black" target="_blank"></a>|
