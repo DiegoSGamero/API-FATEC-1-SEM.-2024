@@ -17,7 +17,7 @@ API FATEC 1 SEM. 2024 - CALCULADORA CIENTÍFICA
 
 
 ### Tema
-Desenvolver uma calculadora científica com diversos funções que permita cálculos, desde operações básicas até operações adicionais.
+Desenvolver uma calculadora científica com funções que permitam desde operações básicas como soma e divisão à operações mais complexas como fatorial e juros compostos.
 
 
 ### Objetivos 
@@ -49,13 +49,13 @@ Operações adicionais:
 ### Requisitos Funcionais:
 
 - Deve possuir uma interface texto para acessar às operações matemáticas;
-- Deve permitir ao usuário a opção de realizar mais de uma operação por execução, ou finalizar a aplicação, através de um menu;
+- Deve permitir ao usuário a opção de realizar um tipo operação por execução e, ao fim desta, ter a opção de voltar ao menu para mais operações ou encerrar a aplicação;
 - Deve implementar as operações básicas de soma, multiplicação, subtração e divisão;
 - Deve implementar a operação de cálculo fatorial;
 - Deve implementar a operação de cálculo de função de Segundo Grau;
-- Deve implementar a operação de conversão de base numérica (B10 X B2 / B2 x B10 / B2 x B8 / B8 x B2 / B2 x B16 / B16 x B2)
+- Deve implementar a operação de conversão de base numérica (B10 X B2 / B2 x B10 / B2 x B8 / B8 x B2 / B2 x B16 / B16 x B2);
 - Deve implementar a função de concatenação de 2 strings;
-- Deve implementar a função de Juros Simples e Juros Compostos
+- Deve implementar a função de Juros Simples e Juros Compostos.
 
 ### Requisitos Não Funcionais:
 
@@ -80,8 +80,8 @@ Para acessar a documentação do projeto, fique à vontade para acessar nosso si
 |01|Criação e organização do Backlog da Sprint|
 |01|Criação e organização do Product Backlog|
 |01|Criação da documentação|
-|01| Criação da lógica da Calculadora Científica em um arquivo excel|
 |01|Criação e organização do README.MD|
+|01|Criação da lógica da Calculadora Científica em um arquivo excel|
 |02|Inicío de implementação do produto em Visual G|
 
 
