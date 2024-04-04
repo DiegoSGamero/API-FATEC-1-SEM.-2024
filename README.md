@@ -1,11 +1,33 @@
 # API-FATEC-1-SEM.-2024
 API FATEC 1 SEM. 2024 - CALCULADORA CIENTÍFICA
 
+# Tópicos
+
+- <a href ="#tema"> Tema </a>
+- <a href ="#objetivos"> Objetivos </a>
+- <a href ="#requisitos-funcionais"> Requisitos Funcionais </a>
+- <a href ="#objetivos"> Objetivos </a>
+- <a href ="#requisitos-não-funcionais"> Requisitos Não Funcionais </a>
+- <a href ="#documentação-do-projeto"> Documentação do projeto </a>
+- <a href ="#board-do-produto"> Board do Produto </a>
+- <a href ="#equipe"> Equipe </a>
+- <a href ="#legenda-de-priorização"> Legenda de priorização </a>
+- <a href ="#prazos"> Prazos </a>
+
+
+
 ### Tema
 Desenvolver uma calculadora científica com diversos funções que permita cálculos, desde operações básicas até operações adicionais.
 
-### Objetivos
 
+### Objetivos 
+
+  Desenvolvimento de uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
+  
+- A aplicação (no projeto) de técnicas de programação para a construção de algoritmos.
+- O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional.
+- O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto.
+- O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time (sucesso / fracasso de TODOS).
 Implementação de uma calculadora científica com vários recursos extras, tais como:
 
 Operações básicas:
@@ -51,23 +73,12 @@ Para acessar a documentação do projeto, fique à vontade para acessar nosso si
 À ser feito.
 
 
-# Board de Produto
+# Board do Produto
 
 | Prioridades  | Épicos planejados | Detalhamento  | Sprint    |
 | ------------ | -------------    | ------------- | ----------|
 | Média | [**Documentação:**]([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS) | Implementação da rotina de documentação de práticas ao longo do projeto | [[#1]](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.)/milestone/1)  |
 | Alta  | [**Lógica para Calculadora Científica:**] ([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS)(colocar aqui o link para a tabela)| Implementação da lógica a ser utilizada no projeto  | Content Cell   |
-
-
-### Objetivos 
-
-  Desenvolvimento de uma solução computacional que exercite a capacidade de pesquisa e autodidaxia dos integrantes dos grupos, no que tange:
-  
-- A aplicação (no projeto) de técnicas de programação para a construção de algoritmos.
-- O uso de uma ferramenta que possibilite um Ambiente de Desenvolvimento Integrado (IDE) para o desenvolvimento da solução computacional.
-- O aprendizado e aplicação de uma ou mais linguagens de programação para concepção do projeto.
-- O exercício do compromisso, responsabilidade e trabalho em equipe dos membros do Time (sucesso / fracasso de TODOS).
-
 
 
 #### Prazos
@@ -83,7 +94,7 @@ Para acessar a documentação do projeto, fique à vontade para acessar nosso si
 
 Ao abrir os cards do kanbam será possível ver a priorização no lado direito como um dos atributos dos cards, com as seguintes nomenclaturas.
 
-Legenda Priorização:
+### Legenda de priorização:
 
 <table border="1 px">
     <tr>
