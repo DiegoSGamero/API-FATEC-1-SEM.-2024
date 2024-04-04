@@ -82,12 +82,7 @@ Para acessar a documentação do projeto, fique à vontade para acessar nosso si
 |01|Criação da documentação|
 |01| Criação da lógica da Calculadora Científica em um arquivo excel|
 |01|Criação e organização do README.MD|
-|02|Criação da página "HOME"|
-|02|Criação da página " Dados da Covid"|
-|02|Criação da página "Conheça o Projeto"|
-|02|Criação e organização das tabelas de dados por contaminação, internação e óbitos dos anos de 2019 a 2022|
-|02|Integração do projeto no repositório GIT|
-
+|02|Inicío de implementação do produto em Visual G|
 
 
 #### Prazos
