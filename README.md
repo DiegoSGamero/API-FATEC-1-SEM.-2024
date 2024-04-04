@@ -9,7 +9,7 @@ API FATEC 1 SEM. 2024 - CALCULADORA CIENTÍFICA
 - <a href ="#objetivos"> Objetivos </a>
 - <a href ="#requisitos-não-funcionais"> Requisitos Não Funcionais </a>
 - <a href ="#documentação-do-projeto"> Documentação do projeto </a>
-- <a href ="#board-do-produto"> Board do Produto </a>
+- <a href ="#backlog"> Backlog </a>
 - <a href ="#equipe"> Equipe </a>
 - <a href ="#legenda-de-priorização"> Legenda de priorização </a>
 - <a href ="#prazos"> Prazos </a>
@@ -72,13 +72,22 @@ Para acessar a documentação do projeto, fique à vontade para acessar nosso si
 
 À ser feito.
 
+## Backlog
 
-# Board do Produto
+| Sprint | Item do Backlog |
+|--------|-----------------|
+|01|Criação do repositório GIT.|
+|01|Criação e organização do Backlog da Sprint|
+|01|Criação e organização do Product Backlog|
+|01|Criação da documentação|
+|01| Criação da lógica da Calculadora Científica em um arquivo excel|
+|01|Criação e organização do README.MD|
+|02|Criação da página "HOME"|
+|02|Criação da página " Dados da Covid"|
+|02|Criação da página "Conheça o Projeto"|
+|02|Criação e organização das tabelas de dados por contaminação, internação e óbitos dos anos de 2019 a 2022|
+|02|Integração do projeto no repositório GIT|
 
-| Prioridades  | Épicos planejados | Detalhamento  | Sprint    |
-| ------------ | -------------    | ------------- | ----------|
-| Média | [**Documentação:**]([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS) | Implementação da rotina de documentação de práticas ao longo do projeto | [[#1]](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.)/milestone/1)  |
-| Alta  | [**Lógica para Calculadora Científica:**] ([Documentação FATEC API](https://github.com/CyberNexusFatec/API-FATEC-1-SEM.-2024-DOCUMENTS)(colocar aqui o link para a tabela)| Implementação da lógica a ser utilizada no projeto  | Content Cell   |
 
 
 #### Prazos
